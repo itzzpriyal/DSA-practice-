@@ -60,7 +60,7 @@ void display(){
     }
     int main(){
         create();
-        everse();
+        reverse();
         display();
         return 0;
     }
